@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="152mm"
+   height="152mm"
+   viewBox="0 0 152 152"
+   version="1.1"
+   id="svg142"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="lid.svg">
+  <defs
+     id="defs136" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="260.44008"
+     inkscape:cy="262.43502"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata139">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.031701,-72.365034)">
+    <g
+       id="lid-cut"
+       class="cut"
+       fill="none"
+       stroke="#d41a5a"
+       stroke-width="2"
+       transform="matrix(0.35277904,0,0,0.35277904,20.581562,63.070118)">
+      <path
+         id="lid-cut-outside"
+         d="m 28.35,370.61 28.34,28.35 h 28.35 l 28.35,-28.35 v 85.04 h 257.67 v -85.04 l 28.34,28.35 h 28.35 l 28.34,-28.35 V 112.94 L 427.75,84.6 H 399.4 l -28.34,28.34 V 27.91 H 113.39 v 85.03 L 85.04,84.6 H 56.69 l -28.34,28.34 v 257.67" />
+    </g>
+    <g
+       id="lid-fold"
+       class="fold"
+       fill="none"
+       stroke="#00adee"
+       stroke-width="0.75"
+       transform="matrix(0.35277904,0,0,0.35277904,20.581562,63.071882)">
+      <path
+         id="lid-fold-outside-flap-1"
+         d="m 28.35,370.61 h 85.04" />
+      <path
+         id="lid-fold-outside-flap-2"
+         d="m 371.06,370.61 h 85.03" />
+      <path
+         id="lid-fold-outside-flap-3"
+         d="M 456.09,112.94 H 371.06" />
+      <path
+         id="lid-fold-outside-flap-4"
+         d="M 113.39,112.94 H 28.35" />
+      <path
+         id="lid-fold-inside"
+         d="M 113.39,370.61 H 371.06 V 112.94 H 113.39 v 257.67" />
+    </g>
+  </g>
+</svg>
